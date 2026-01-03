@@ -1,3 +1,4 @@
+##EM CONSTRUÇÃO PARA APRENDIZADO##
 🎮 Jokenpô (Pedra, Papel e Tesoura)
 
 Este projeto é uma implementação do jogo Jokenpô (Pedra, Papel e Tesoura), desenvolvida com o objetivo de praticar lógica de programação e conceitos fundamentais de desenvolvimento de software, incluindo Programação Orientada a Objetos (POO).
