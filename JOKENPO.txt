@@ -1,0 +1,20 @@
+entrada: 
+usuario escreve numa caixa os 3 nomes pedra papel tesoura e avisa caso escrava lago diferente 
+pc recebe um numero de 1-3 sendo 1 pedra 2 papel 3 tesoura com math.floor(math.random()*(max - min + 1))+min  let min-1, let max = 3
+
+logica:
+compara os valores  se forem iguais devolve empate, se o usuario ou computaddor ganhar incrementa num contador para cada e apos 5 rodada com um while ou do while eu encerro o jogo  e apresento o jogador
+
+visao:
+botao de inicio e logo ponho os valores de entrada faço as repetiçoes ate que sejam feitos 5 pontos ou pelo usuario ou pelo pc e deixo um botao de novo jogo que zera automaticamento os pontos e começa tudo de novo
+
+corraçao de bugs:
+caso o usuaio insera algum valor incorreto eu paro e emito  uma msg ate que seja corrigido o erro
+
+###################################################################################################
+2 Parte
+HERANÇA E POLIMORFISMO
+vou pegar os atributos que eu nao usei no primeiro codigo e fazer uma segunda pagina para 
+começar a dar pontos e mais vida ao 1 codigo
+la vou chamar com extends o jogador 1 que serei eu e o 2 a maquina e contabilizar as vitorias os empates e a cada 5 pontos conta como 1 vitoria 
+###################################################################################################
